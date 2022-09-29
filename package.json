@@ -59,6 +59,7 @@
     "@storybook/addon-essentials": "^6.5.12",
     "@storybook/addon-interactions": "^6.5.12",
     "@storybook/addon-links": "^6.5.12",
+    "@storybook/addon-react-native-web": "0.0.18",
     "@storybook/builder-webpack5": "^6.5.12",
     "@storybook/manager-webpack5": "^6.5.12",
     "@storybook/node-logger": "^6.5.12",
@@ -66,7 +67,10 @@
     "@storybook/react": "^6.5.12",
     "@storybook/testing-library": "^0.0.13",
     "babel-plugin-named-exports-order": "^0.0.2",
+    "babel-plugin-react-native-web": "0.18.9",
     "prop-types": "^15.8.1",
+    "react-native": "0.70.1",
+    "react-native-web": "0.18.9",
     "webpack": "^5.74.0"
   }
 }
